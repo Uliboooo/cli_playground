@@ -1,0 +1,8 @@
+[package]
+name = "cli_playground"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+easy_storage = "0.4.1"
+serde = {version="1.0.228", features=["derive"]}
