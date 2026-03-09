@@ -1,10 +1,11 @@
 ## Tasks
 
-- [ ] parse positional args
-    - [ ] `-a` `--add`
-- [ ] parse option
-- [ ] parse optional args
+- [x] parse positional args
+    - [x] `-a` `--add`
+- [x] parse option
+- [x] parse optional args
 - [ ] parse `--`
+- [ ] add practice about pipe line to connection command results
 
 ## Usages
 
